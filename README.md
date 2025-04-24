@@ -1,41 +1,53 @@
 <h1 align="center">Hi 👋, I'm Sujit Sarkar</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iamsujitsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="iamsujitsarkar" />
-</p>
-
-- 🔭 I’m currently working on **WordPress Plugin Development and Laravel APIs**
-- 🌱 I’m currently learning **Next.js, Advanced Laravel, and Headless CMS**
-- 👨‍💻 All of my projects are available at [iamsujitsarkar.github.io](https://iamsujitsarkar.github.io)
-- 💬 Ask me about **WordPress, Laravel, Vue, React, and Web Performance**
-- 📫 How to reach me: **iamsujitsarkar@gmail.com**
+<h3>Full-Stack Web Developer with 6+ years of experience building scalable, user-centric applications across the entire development stack. Proven ability to design, develop, and deploy robust solutions using a wide array of technologies. Eager to contribute deep technical expertise and creative problem-solving to a dynamic development team.</h3>
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,vue,react,nextjs,nodejs,tailwind,bootstrap,html,css,git,vscode" />
-</p>
+## 🧰 Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpine.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+### 🖥️ Backend
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?logo=laravel&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-3C3C3C?logo=inertia&logoColor=white)
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsujitsarkar&show_icons=true&locale=en" alt="iamsujitsarkar" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsujitsarkar&layout=compact&hide=html" alt="top-langs" />
-</p>
+## 📫 Get in Touch
+
+- 🌐 Portfolio: [sujitsarkar.com](https://sujitsarkar.com)
+- 📧 Email: soumyasarkarsujit4@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/iamsujitsarkar](https://linkedin.com/in/iamsujitsarkar)
+- 🐦 Twitter: [twitter.com/iamsujitsarkar](https://twitter.com/iamsujitsarkar)
+- 📷 Instagram: [instagram.com/iamsujitsarkar](https://instagram.com/iamsujitsarkar)
+- 📘 Facebook: [facebook.com/iamsujitsarkar](https://facebook.com/iamsujitsarkar)
 
 ---
 
-### 📫 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/iamsujitsarkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:soumyasarkarsujit4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
+## 🧭 Fun Fact
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
