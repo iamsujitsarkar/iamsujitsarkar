@@ -8,14 +8,17 @@
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpine.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### 🖥️ Backend
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -43,7 +46,7 @@
 - 📧 Email: soumyasarkarsujit4@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/iamsujitsarkar](https://linkedin.com/in/iamsujitsarkar)
 - 🐦 Twitter: [twitter.com/iamsujitsarkar](https://twitter.com/iamsujitsarkar)
-- 📷 Instagram: [instagram.com/iamsujitsarkar](https://instagram.com/iamsujitsarkar)
+- 📷 Instagram: [instagram.com/iamsujitsarker](https://instagram.com/iamsujitsarker)
 - 📘 Facebook: [facebook.com/iamsujitsarkar](https://facebook.com/iamsujitsarkar)
 
 ---
@@ -51,3 +54,7 @@
 ## 🧭 Fun Fact
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+---
+
+⭐ If you like what you see, feel free to follow or star some repos!
