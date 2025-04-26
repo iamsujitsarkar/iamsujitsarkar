@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sujit Sarkar</h1>
-<h3>Full-Stack Web Developer with 6+ years of experience building scalable, user-centric applications across the entire development stack. Proven ability to design, develop, and deploy robust solutions using a wide array of technologies. Eager to contribute deep technical expertise and creative problem-solving to a dynamic development team.</h3>
+<h2>🎯 Full Stack Web Developer | 💡 Passionate about building impactful digital experiences</h1>
+
+## 🚀 About Me
+Full-Stack Web Developer with 6+ years of experience building scalable, user-centric applications across the entire development stack. Proven ability to design, develop, and deploy robust solutions using a wide array of technologies. Eager to contribute deep technical expertise and creative problem-solving to a dynamic development team.
 
 ---
 
