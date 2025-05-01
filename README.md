@@ -45,7 +45,7 @@ Full-Stack Web Developer with 6+ years of experience building scalable, user-cen
 
 ## 📫 Get in Touch
 
-- 🌐 Portfolio: [sujitsarkar.com](https://sujitsarkar.com)
+- 🌐 Portfolio: [sujit-sarkar.com](https://sujit-sarkar.com)
 - 📧 Email: soumyasarkarsujit4@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/iamsujitsarkar](https://linkedin.com/in/iamsujitsarkar)
 - 🐦 Twitter: [twitter.com/iamsujitsarkar](https://twitter.com/iamsujitsarkar)
