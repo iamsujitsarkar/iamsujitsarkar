@@ -52,6 +52,7 @@ Full-Stack Web Developer with 6+ years of experience building scalable, user-cen
 - 🐦 Twitter: [twitter.com/iamsujitsarkar](https://twitter.com/iamsujitsarkar)
 - 📷 Instagram: [instagram.com/iamsujitsarker](https://instagram.com/iamsujitsarker)
 - 📘 Facebook: [facebook.com/iamsujitsarkar](https://facebook.com/iamsujitsarkar)
+- 🌐 Wordpress: [profiles.wordpress.org/iamsujitsarkar](https://profiles.wordpress.org/iamsujitsarkar)
 
 ---
 
